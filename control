@@ -1,0 +1,9 @@
+Package: com.subdiox.rakutenpaypatch
+Name: RakutenPay Patch
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Anti Jailbreak Detection for RakutenPay
+Maintainer: subdiox
+Author: subdiox
+Section: Tweaks
